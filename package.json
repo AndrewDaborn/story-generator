@@ -1,0 +1,13 @@
+{
+  "name": "ClearSwift story generator",
+  "version": "1.0",
+  "author": "Andrew Daborn",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0"
+  }
+}
